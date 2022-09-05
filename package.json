@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "name": "classes-and-objects",
+  "version": "1.0.0",
+  "main": "Json.js",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "sinon": "^14.0.0",
+    "sinon-chai": "^3.7.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./tests/*test.js --reporter spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
