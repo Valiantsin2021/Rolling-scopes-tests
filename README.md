@@ -3,5 +3,5 @@
 ## Three tasks from the Rolling Scopes course FE_stage0
 
 ### Towel sort
-### Human readdable number
+### Human readable number
 ###  Guessing game
